@@ -1,2 +1,2 @@
-# 11-3D-Game
-My first 3D game creation
+# Project-Template-Godot
+A generic template for a Godot project
